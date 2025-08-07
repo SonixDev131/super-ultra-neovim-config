@@ -11,8 +11,5 @@ return {
         opts = { skip = true },
       },
     },
-    presets = {
-      lsp_doc_border = true, -- Ensure this is set to true to enable borders
-    },
   },
 }
